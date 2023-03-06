@@ -12,7 +12,7 @@
     <li><a href="#-常见问题">🤔 常见问题</a></li>
     <li><a href="#-版本升级">🆙 版本升级</a></li>
   </ul>
-  111111
+  11111123131231
 </details>
 
 <a href="https://discord.gg/PZTQfJ4GjX">
